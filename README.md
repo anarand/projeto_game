@@ -9,3 +9,5 @@
 8. instalar as dependências que serão utilizadas: 
    npm install react-router-dom  
    npm install styled-components
+9. verificar se tem a extensão ES7 React/[...]
+10. criar os componentes do projeto com o comando rafce 
