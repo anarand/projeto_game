@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "imagem": "./src/assets/Game1.jpg",
+      "titulo": "Jogo de Dados Dinãmico",
+      "descricao": "Jogando com Emoção e Dedicação.",
+      "preco": "R$ 1.200,00"
+    },
+    {
+      "id": 2,
+      "imagem": "./src/assets/Game2.jpg",
+      "titulo": "Jogo da Vida Retrô",
+      "descricao": "Jogando o passado para futuro.",
+      "preco": "R$ 1.200,00"
+    },
+      {
+      "id": 3,
+      "imagem": "./src/assets/Game3.jpg",
+      "titulo": "Jogo Cassino",
+      "descricao": "Jogando com estratégia, eficiência e Eficacia",
+      "preco": "R$ 1.200,00"
+    },
+      {
+      "id": 4,
+      "imagem": "./src/assets/Game4.jpg",
+      "titulo": "Jogo do Super Mario",
+      "descricao": "Jogando com aventura e muita emoçao.",
+      "preco": "R$ 1.200,00"
+    }
+  ]

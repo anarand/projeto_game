@@ -14,6 +14,7 @@ export const FooterContainer =styled.div`
         margin: auto;
     }
 
+
     h3{
         margin-bottom:10px;
     }

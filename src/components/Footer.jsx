@@ -10,7 +10,9 @@ const Footer = () => {
       <p>Telefone: (11)936777-1111</p>
     </div>
 
-
+    <div className="direitos">
+      <p>&copy; 2025 - City Game - todos os direitos reservados</p>
+    </div>
 
     <div className="redes-sociais">
       <h3>Redes Sociais</h3>
@@ -21,9 +23,6 @@ const Footer = () => {
       </ul>
     </div>
 
-    <div className="direitos">
-      <p>&copy; 2025 - City Game - todos os direitos reservados</p>
-    </div>
     </FooterContainer>
   )
 }
